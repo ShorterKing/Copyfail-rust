@@ -1,0 +1,9 @@
+[package]
+name = "copy_fail"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
+flate2 = "1.0"
+hex = "0.4"
